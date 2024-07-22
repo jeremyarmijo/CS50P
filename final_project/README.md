@@ -33,7 +33,7 @@ pip install pygame
 1. **Run the game:**
 
 ```bash
-python snake.py
+python project.py
 ```
 
 2. **Controls:**
@@ -47,20 +47,3 @@ python snake.py
 
 - Eat the food to grow longer.
 - Avoid colliding with walls and yourself.
-
-## Project Structure
-
-```
-.
-├── snake.py        # Main game script
-├── README.md       # Project README
-└── assets/         # Game assets (if any)
-```
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify the placeholders as needed.
